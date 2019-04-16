@@ -1,5 +1,4 @@
 from django.shortcuts import render
-<<<<<<< HEAD
 from .models import Post
 
 def home(request):
